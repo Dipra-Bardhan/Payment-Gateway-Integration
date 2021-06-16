@@ -73,16 +73,15 @@ hr{
   padding-left: 40px;
   padding-right: 40px;
   text-align:center;
-
 }
 .text-block1 h3{
-font-size: 25px;
+font-size: 32px;
 position: relative;
 top: 150px;
 }
 .donate-btn{
   position: relative;
-  top: 180px;
+  top: 195px;
 }
 .container1 img{
   opacity: 0.8;
@@ -91,12 +90,12 @@ top: 150px;
 .container2 {
   position: relative;
   font-family: Arial;
-
+  /* height: 100vh; */
 }
 
 .text-block2 {
   position: absolute;
-  top: 120px;
+  bottom: 100px;
   left: 80px;
   right:80px;
   background-color: #e6e6e6;
@@ -169,7 +168,7 @@ h2{
     flex: 1;
     border: 5px solid #664d00;
     border-radius: 10px;
-    background-color: #cebd8a;
+    background-color: #e4c05e;
     padding-left: 30px;
     padding-bottom: 10px;
 }
@@ -224,6 +223,8 @@ h4{
 .social{
   font-size: 40px;
   text-align: center;
+  position: relative;
+  top: 20px;
 }
 
 .footer hr{
